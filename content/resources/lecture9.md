@@ -4,6 +4,8 @@ description: 'Value Chain Strategy: Clockspeed & 3-D Concurrent Engineering'
 file: /courses/15-769-operations-strategy-spring-2003/50f8a031c382f1ffc9f0c1d9bdd4b04a_lecture9.pdf
 file_size: 1302205
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

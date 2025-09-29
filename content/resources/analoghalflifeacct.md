@@ -5,6 +5,8 @@ description: Measuring Operations Performance at Analog Devices (Language of Mon
 file: /courses/15-769-operations-strategy-spring-2003/9eba75d4612bf8c0ffdb0504c0962c9c_analoghalflifeacct.pdf
 file_size: 138264
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

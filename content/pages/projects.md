@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on the course project, grading, previous
   topics, and sample project ideas.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
